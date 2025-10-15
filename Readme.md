@@ -1,0 +1,9 @@
+# Temel Java Eğitimi
+[Github](https://github.com/zeynepgltn/Java.git)
+[JDK](https://www.oracle.com/java/technologies/downloads/#jdk25-windows)
+[İntellij İdea Community](https://www.jetbrains.com/idea/download/?section=windows)
+[Git](https://git-scm.com/downloads)
+
+'''sh
+'''
+---
