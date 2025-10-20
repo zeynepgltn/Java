@@ -22,4 +22,3 @@ git push -u origin master
 
 git clone https://github.com/zeynepgltn/Java.git
 ```
-
