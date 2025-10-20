@@ -1,8 +1,17 @@
 ### IntelliJ IDEA ###
+.idea/
+*.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
+
+### Maven ###
+target/
+${project.build.directory}/
+dependency-reduced-pom.xml
+build/
+logs/
 
 ### Eclipse ###
 .apt_generated
@@ -26,5 +35,10 @@ bin/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
+### macOS ###
 .DS_Store
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
+Desktop.ini
