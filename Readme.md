@@ -3,8 +3,8 @@
 [JDK](https://www.oracle.com/java/technologies/downloads/#jdk25-windows)
 [İntellij İdea Community](https://www.jetbrains.com/idea/download/?section=windows)
 [Git](https://git-scm.com/downloads)
+[Java Tutorials](https://www.w3schools.com/java/)
 
-## Git
 ```sh
 git init
 git add .
