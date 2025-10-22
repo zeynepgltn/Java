@@ -1,0 +1,5 @@
+Shift+Tab : Single Comment
+Ctrl+Shift+Tab : Beautify
+
+psvm + Tab : public static void main
+sout + Tab : system.out.println
