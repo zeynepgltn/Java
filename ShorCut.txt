@@ -3,3 +3,5 @@ Ctrl+Shift+Tab : Beautify
 
 psvm + Tab : public static void main
 sout + Tab : system.out.println
+
+Copyand pase : Ctrl + d
