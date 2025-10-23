@@ -5,3 +5,4 @@ psvm + Tab : public static void main
 sout + Tab : system.out.println
 
 Copyand pase : Ctrl + d
+Shift + f6 : Tüm değişkenleri aynı anda rename eder
